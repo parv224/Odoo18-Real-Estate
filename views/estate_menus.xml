@@ -1,0 +1,27 @@
+<odoo>
+    <menuitem
+            id="menu_estate_root"
+            name="Real Estate"
+            sequence="10"
+           />
+
+    <menuitem
+        id="menu_estate_property"
+        name="Properties"
+        parent="menu_estate_root"
+        sequence="10"
+        action="action_estate_property"/>
+
+    <menuitem id="menu_estate_property_tags"
+          name="Property Tags"
+          parent="menu_estate_property"
+          action="action_estate_property_tags"
+          sequence="10"/>
+
+    <menuitem id="menu_estate_property_type"
+          name="Property Type"
+          parent="menu_estate_property"
+          action="action_estate_property_type"
+          sequence="10"/>
+
+</odoo>
