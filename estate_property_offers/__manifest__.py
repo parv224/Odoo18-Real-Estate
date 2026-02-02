@@ -1,12 +1,12 @@
 {
-    "name": "Real Estate",
-    "summary": "Simple real estate property and offer management",
+    "name": "Estate Property Offers",
+    "summary": "Manage property listings and offers",
     "version": "18.0.1.0",
     "author": "Odoo PS",
     "website": "http://www.odoo.com",
     "license": "LGPL-3",
     "category": "Sales",
-    "depends": ["base", "crm"],
+    "depends": ["base"],
     "application": True,
     "data": [
         "security/ir.model.access.csv",
