@@ -1,4 +1,4 @@
-# Real Estate Management – Odoo Module
+# Real Estate – Odoo Module
 
 This module provides a simple and structured way to manage real estate properties and property offers in Odoo.  
 It is designed as a single, standalone application that focuses on property lifecycle management without unnecessary complexity.
