@@ -4,7 +4,7 @@
 #     "version": "18.0.0.0",
 #     "author": "Odoo PS",
 #     "website": "http://www.odoo.com",
-#     "license": "OEEL-1",
+#     "license": "LGPL-3",
 #     "category": "Sales",
 #     "depends": ["crm","base"],
 #     "data": [
@@ -36,7 +36,7 @@
     "license": "LGPL-3",
     "category": "Sales",
     "depends": ["base", "crm"],
-    "application": False,
+    "application": True,
     "data": [
         "security/ir.model.access.csv",
         "views/estate_property_type_views.xml",
