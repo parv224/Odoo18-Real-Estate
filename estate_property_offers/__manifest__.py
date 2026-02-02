@@ -15,6 +15,11 @@
         "views/estate_property_offer_views.xml",
         "views/estate_property_views.xml",
         "views/estate_menus.xml",
+        
+        "static/description/icon.png"
+        "static/description/cover.png"
+        "static/description/index.html"
+    
     ],
     "demo": [
         "demo/demo.xml"
