@@ -19,7 +19,7 @@
         "views/estate_menus.xml",
     ],
 
-    "images": ["static\description\cover.png"],
+    "images": ["static\description\cover.jpeg"],
 
     "demo": [
         "demo/demo.xml"
