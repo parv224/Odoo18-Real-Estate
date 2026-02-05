@@ -2,7 +2,7 @@
     "name": "Estate Property Offers",
     "summary": "Manage property listings and offers",
     "version": "18.0.1.0",
-    "author": "Odoo PS",
+    "author": "AppForge",
     "website": "https://www.odoo.com",
     "license": "LGPL-3",
     "category": "Sales",
