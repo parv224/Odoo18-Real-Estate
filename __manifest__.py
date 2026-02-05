@@ -2,7 +2,7 @@
 #     "name": "Real Estate",
 #     "summary": "Test",
 #     "version": "18.0.0.0",
-#     "author": "Odoo PS",
+#     "author": "AppForge",
 #     "website": "http://www.odoo.com",
 #     "license": "OEEL-1",
 #     "category": "Sales",
